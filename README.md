@@ -11,4 +11,4 @@ HTML/CSS: MyQuest.
 while (!succeed) try();
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/628964578579054600)](https://discord.com/users/628964578579054600)
+[![Discord Presence](https://lanyard.cnrad.dev/api/628964578579054600?theme=dark&idleMessage=Currently%20relaxing!)](https://discord.com/users/628964578579054600)
